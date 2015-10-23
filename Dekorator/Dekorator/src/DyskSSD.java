@@ -8,7 +8,7 @@ public class DyskSSD extends Decorator {
 
 	@Override
 	public int price() {
-		return pc.price() + 1000;
+		return pc.price() + 500;
 	}
 
 	@Override
