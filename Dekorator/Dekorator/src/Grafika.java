@@ -8,7 +8,7 @@ public class Grafika extends Decorator {
 
 	@Override
 	public int price() {
-		return pc.price() + 500;
+		return pc.price() + 1000;
 	}
 
 	@Override
