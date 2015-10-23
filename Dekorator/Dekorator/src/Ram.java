@@ -8,7 +8,7 @@ public class Ram extends Decorator {
 
 	@Override
 	public int price() {
-		return pc.price() + 200;
+		return pc.price() + 1000;
 	}
 
 	@Override
